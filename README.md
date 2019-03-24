@@ -1,3 +1,3 @@
 # LearnCoding
 Learn to code
-My name is Gangadhar Malagr
+My name is Gangadhar Malagar
